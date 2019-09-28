@@ -3,17 +3,20 @@
         {
             "title": "Parque",
             "description": "Es un buen lugar",
-            "score": 10
+            "score": 10,
+            "img": "http://moronasantiagoessangay.com/imagenes/uploads/lugares_0.30324900_1506394780.jpg"
         },
         {
             "title": "Centro deportivo",
             "description": "Es un buen lugar",
-            "score": 10
+            "score": 10,
+            "img": "http://www.mallolarquitectos.com/wp-content/uploads/2018/06/2016055_CENTRO-DEPORTIVO-LOS-ANDES-6.jpg"
         },
         {
             "title": "Biblioteca municipal",
             "description": "Es un buen lugar",
-            "score": 10
+            "score": 10,
+            "img": "https://www.las2orillas.co/wp-content/uploads/2016/02/Sopo-biblioteca-san-gabriel.jpg"
         }
     ],
     "comments": [
