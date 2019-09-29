@@ -1,18 +1,21 @@
 {
     "touristPlaces": [
         {
+            "id": 1,
             "title": "Parque",
             "description": "Es un buen lugar",
             "score": 10,
             "img": "http://moronasantiagoessangay.com/imagenes/uploads/lugares_0.30324900_1506394780.jpg"
         },
         {
+            "id": 2,
             "title": "Centro deportivo",
             "description": "Es un buen lugar",
             "score": 10,
             "img": "http://www.mallolarquitectos.com/wp-content/uploads/2018/06/2016055_CENTRO-DEPORTIVO-LOS-ANDES-6.jpg"
         },
         {
+            "id": 3,
             "title": "Biblioteca municipal",
             "description": "Es un buen lugar",
             "score": 10,
